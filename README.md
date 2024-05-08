@@ -8,4 +8,5 @@ Bookmarks of Unity
 - [ ] Terminology
   * Interactor - 互動操作 
   * XRRayInteractor - 把手的光束射線
+  * Haptic Events - 觸覺事件
 
