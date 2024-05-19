@@ -33,4 +33,11 @@ Bookmarks of Unity
   * Interactor - 互動操作 
   * XRRayInteractor - 把手的光束射線
   * Haptic Events - 觸覺事件
+  * XR Simple Interactor - 實體的互動操作
+     
+- [ ] Use adb (advanced debugger) to catch the runtime log messages.
+  * cd /Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/SDK/platform-tools
+  * db logcat -s Unity 
+
+
 
